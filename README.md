@@ -1,1 +1,1 @@
-My first readme
+Beoming an SE guru
